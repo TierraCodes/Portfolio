@@ -3,8 +3,6 @@ Project 3
 
 | Number | Item | Description |
 | :----: | ------ | ----------|
-| 01 | [Scanner]() | blank |
-| 02 | [Dialogue Boxes]() | blank |
-| 03 | [Conditionals]() | blank |
-| 04 | [Abstract Classes]() | blank |
-| 05 | [Interfaces]() | blank |
+| 01 | [Scanner and Dialogue Boxes](https://github.com/TierraCodes/Portfolio/tree/main/Activity1) | blank |
+| 02 | [Conditionals]() | blank |
+| 03 | [Abstract Classes and Interfaces]() | blank |
